@@ -1,5 +1,6 @@
-## Hi there 👋
-
+## WELCOME TO MY PAGE 👋
+🌱 My name is Khai Truong Nguyen. I hold a Bachelor's degree in ICT. I am interested in the following topics: Machine Learning, Deep Learning in NLP and Computer Vision, Also I would like to learn more about backend AI.
+📫 How to reach me:
 <!--
 **Kai-054/Kai-054** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
