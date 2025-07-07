@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+## 🏆GitHub Trophies
+![](https://github-trophies.vercel.app/?username=Kai-054&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 -->
 
 
@@ -28,5 +30,4 @@ Here are some ideas to get you started:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Kai-054&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kai-054&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆GitHub Trophies
-![](https://github-trophies.vercel.app/?username=Kai-054&theme=discord&no-frame=false&no-bg=false&margin-w=4)
+
